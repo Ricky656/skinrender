@@ -1,0 +1,183 @@
+Tom
+
+TILESETS
+
+- Interior North Wallset (16 assets)
+
+- Interior West Wallset (12 assets)
+
+- Shadowed West Wallset (6 assets)
+
+- Exterior Inn North Wallset (16 assets)
+
+- Exterior Inn West Wallset (16 assets)
+
+- Exterior Brick North Wallset (3 assets)
+
+- Exterior Brick West Wallset (3 assets)
+
+- Wooden Floorboards (5 assets)
+
+- Shadowed Floorboards (1 asset)
+
+- Tilled Earth (13 assets)
+
+- Road Tiles (9 assets)
+
+- Dirt Tiles (11 assets)
+
+- Single Barrel
+
+- Set of 3 barrels
+
+- Blob shadow (unused)
+
+CHARACTERS
+
+- Skinrender hero (103 assets)
+
+- Republican Soldier (17 assets)
+
+- Republican Officer (17 assets)
+
+- Civilian Woman (20 assets)
+
+- Civilian Man (40 assets)
+
+- Bartender (18 assets)
+
+UI
+
+- Menu Graphic (6 assets)
+
+- Buttons (2 assets)
+
+- Blood Timer (2 assets)
+
+- Skinrender Banner (1 asset)
+
+OBSTACLES
+
+- Boulder (6 assets)
+
+- Bucket (1 asset)
+
+- Fences (3 assets)
+
+- Lamppost (2 assets)
+
+- Latrine (1 asset)
+
+- Trees (6 assets)
+
+- Barrels (2 assets)
+
+- Beds (2 assets)
+
+- Bedside Tables (2 assets)
+
+- Large Bush (1 asset)
+
+- Chicken Coops (2 assets)
+
+- Plants (2 assets)
+
+- Standing Shelves (6 assets)
+
+- Tables (4 assets)
+
+- Broken Tables (4 assets)
+
+- Stone Bench (2 assets)
+
+- Tall Hedge (8 assets)
+
+- Short Hedge (8 assets)
+
+- Fireplace (2 assets)
+
+- Fireplace animation (18 assets)
+
+- Counter (8 assets)
+
+- Bar (8 assets)
+
+SPRITES
+
+- Doors (4 assets)
+
+- Icons (16 assets)
+
+- Targeting sprites (2 assets)
+
+- Blood Drip animation (4 assets)
+
+- Bushes (2 assets)
+
+- Carrots (2 assets)
+
+- Grass tuft (1 asset)
+
+- Playing Cards (2 assets)
+
+- Blood spatter (1 asset)
+
+- Chair (2 assets)
+
+- Broken Chair (2 assets)
+
+- Glass tankard (1 asset)
+
+- Plates (8 assets)
+
+- Food Items incl. wine (5 assets)
+
+- Hanging geese (4 assets)
+
+- Republican banners (2 assets)
+
+- Shelves (4 assets)
+
+- Torches (2 assets)
+
+- Torch animation (14 assets)
+
+- Swords (3 assets)
+
+- Shields (4 assets)
+
+- Crow incl. animations (38 assets)
+
+AUDIO
+
+- Unused audio (13 assets)
+
+WIP ART
+
+- Unused WIP Art (88 assets)
+
+TOTAL
+
+- Art (650 assets [incl. WIP])
+
+- Audio (13 assets)
+
+
+Alaric
+
+Code: 
+-CollisionBallHandler
+-EnemyController
+-PathfindingTileHandler
+-Player_Controller
+-Puzzle_Controller
+-GameController
+-CheckpointControl
+-DoorController
+-UI_Controller
+-SoundEffectController
+-targetingReticleHandler
+-birdController
+-CinematicColliderHandler
+-TileAreaHandler
+-MenuStartBtn

@@ -1,0 +1,38 @@
+Harry
+
+ - Vector's hitbox remains for a small amount of time after killing - bug.
+ - Barrels can trap player.
+ - Walls collision-detection needs work.
+ - Cue for turning on AI.
+ - More shadows would be nice.
+ - Use shadows to lead players (even if unnecessary for puzzle).
+ - Turning of Guards is high priority.
+ - After half-spotted (yellow) change to 'looking around state'.
+ - Visual cue for range of killing.
+ - Third puzzle broke during playtest (unsure why).
+ - Camera should snap when player moves.
+ - New controls would be nice (mouse move like Ultima or maybe numpad 8 directional).
+ - Zoom in/out for camera.
+
+
+Clint
+
+ - Don't let player continue if they cannot win (judge when an impossible situation arises and tell the player). 
+ - Guard judders in puzzle 2.
+ - Puzzle 3 needs redesign (guard looks both ways too fast inside building).
+ - Indication of being in range of target.
+ - Snappy movements make the game too hard. Longer time for enemies to kill you.
+ - If using 'turns yellow' for enemy vector, perhaps disable kill button during this time.
+ - Puzzle 4 - green guy (walking around) looks through wall.
+ - Puzzle 4 - yellow guy at beginning (next to hedge) is very difficult to kill.
+ - Current puzzles aren't very challenging (in terms of deduction). Player simply has to see the opening and go to it.
+ - Suggestion: no safe zones (possible hard mode) so that the player is constantly having to move out of vectors - no ability to be safe adds tension.
+ - Suggestion: add NPCs who move towards player 'wait zones' so that they can never just sit and wait.
+ - Skinrender looks like strong red guy - show proper picture of skinless man during tutorial/menu so players can mentally relate.
+ - Suggestion: Second part of cone which triggers NPCs to walk at player (entering the shorter current part of cone will still kill player).
+ - Add sounds & attack animation for visual/audio reward.
+ - Objective notification: "Get the key". "Kill the officer". "Seduce the officer".
+ - Skin-wearing should involve the player working out which skins are necessary for the puzzle, but other skins available for sub-optimal routes 
+(such as ones involving killing of civilians).
+ - Game should be a little bit more zoomed out.
+ - Killing guards doesn't need an incentive beyond them being a threat to the player (but a bonus score would be nice).

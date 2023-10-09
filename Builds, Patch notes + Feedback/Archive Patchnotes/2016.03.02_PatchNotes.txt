@@ -1,0 +1,10 @@
+Skinrender 02/03/2016 PatchNotes
+
+Week 14
+
+-Torch animations added
+-Additional indoor props added
+-Outdoor areas built up
+-Many outdoor props added
+-Crow added with idle and 'flying away' animations
+-First 2 outdoor puzzles added

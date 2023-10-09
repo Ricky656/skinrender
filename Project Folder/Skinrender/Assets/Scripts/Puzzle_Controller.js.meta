@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a780d13ce4424bb499f95be1bbb83eed
+timeCreated: 1449582450
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - reEnterBlocker: {instanceID: 0}
+  - panPosition: {instanceID: 0}
+  - waypointClass: {fileID: 108810, guid: ee93dc2e9bdbd9a4588e8269211354dc, type: 2}
+  - targetingReticleClass: {fileID: 118708, guid: 46503364f08f53045b2dd11e7d83332a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

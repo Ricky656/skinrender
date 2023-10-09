@@ -1,0 +1,10 @@
+Skinrender 03/02/2016 PatchNotes
+
+Week 10
+
+-Code for depth sorting system rewritten to make way for other system improvements 
+-Depth sorting is now centred around the camera to prevent odd visual bugs between
+ adjacent levels without causing unnecessary background processing.
+-Code created for a dynamic polygon vision system that will allow objects to block
+ enemy vision and provide more realistic stealth gameplay.
+-Players can now toggle the vision indicators with the 'V' key.

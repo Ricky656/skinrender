@@ -1,0 +1,6 @@
+The following links were used to inform the creation of an Isometric world:
+
+http://gamedevelopment.tutsplus.com/tutorials/creating-isometric-worlds-a-primer-for-game-developers-continued--gamedev-9215
+http://gamedevelopment.tutsplus.com/tutorials/creating-isometric-worlds-a-primer-for-game-developers--gamedev-6511
+http://flarerpg.org/tutorials/isometric_intro/
+http://www.alcove-games.com/advanced-tutorials/isometric-tile-picking/

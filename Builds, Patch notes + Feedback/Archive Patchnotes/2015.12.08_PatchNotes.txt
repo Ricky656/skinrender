@@ -1,0 +1,9 @@
+Skinrender 08/12/2015 PatchNotes
+
+Week 9
+
+-Seducer Ability coded and added
+-Guard shout ability coded and added
+-New puzzles showing the new disguise abilities added
+-Bartender art implemented fully
+-Extra UI assets created and added

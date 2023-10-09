@@ -1,0 +1,11 @@
+Skinrender 10/11/2015 PatchNotes
+
+Week 4
+
+-Code allowing 'initial patrols' added 
+-Stops wastful pathfinding processing before player arrives at each puzzle
+-Wall-specific depth sorting improved
+-Initial outdoor tileset elements added including simple grass tiles and bush blocker
+-3 proper puzzles designed and implemented to replace the test level. (A further 3 also designed)
+-System added that will allow developers to easily block of a puzzle to the player once it has been completed
+-Basic form of 'Innocent' NPCs added

@@ -1,0 +1,11 @@
+Skinrender 03/05/2016 PatchNotes
+
+Final Week
+
+-Interior Puzzles added/iterated involving disguise abilities 'Spike Drink' and 'Guard Shout'
+-Large amount of various minor bugs fixed
+-Enemy Vision system bugs fixed
+-NPC Pathfinding immensely improved, is now far more robust. 
+-Various animations added
+-Various props created and added
+-Initial Main Menu added

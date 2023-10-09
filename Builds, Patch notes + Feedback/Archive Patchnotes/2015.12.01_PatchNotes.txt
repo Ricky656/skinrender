@@ -1,0 +1,10 @@
+Skinrender 01/12/2015 PatchNotes
+
+Week 8
+
+-Mouse control of character added
+-Bartender Disguise ability coded
+-Removed odd shakes in enemy view cones
+-Target indicator added
+-Bartender character defined
+-Bartender art created, not yet implemented

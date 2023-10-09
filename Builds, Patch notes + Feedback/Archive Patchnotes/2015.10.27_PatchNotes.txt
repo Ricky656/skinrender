@@ -1,0 +1,13 @@
+Skinrender 27/10/2015 PatchNotes
+
+Week 2
+
+-Basic Depth Sorting added (has bugs)
+-AI Look behaviour added,
+-AI Wait behaviour added,
+-2 simple puzzles implemented
+-Simple death state added
+-Simple checkpoint system added
+-Pathfinding Huerestic analysis improved
+-Alternate floorboard art added
+-North walls added

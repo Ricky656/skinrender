@@ -1,0 +1,15 @@
+Skinrender 16/03/2016 PatchNotes
+
+Week 16
+
+-Fireplace animation added
+-Marceau idle drinking animation added
+-Musket shot sound added
+-Enemy 'shooting' animation added
+-Enemy shooting coded and setup for use in puzzle routines
+-Almost all of outdoor area finished, including outer walls ringing the areas
+-All of outdoor puzzles added
+-First kitchen area created, including various kitchen assets
+-A few destroyed interior assets added to show republicans wrecking the place
+-Crow 'being shot' animation added
+-Wine bottle 'being shot' animation added

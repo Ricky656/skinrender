@@ -1,0 +1,20 @@
+Notes: Males 20-27
+
+Gameplay Feeback:
+-Players took multiple attempts at even just the first area 
+-1 player felt "compulsion to kill everything"
+-"Camera is nice" (referring to isometric viewpoint)
+-Immediately realised red guard was main target in area 3
+-Players tended to die a couple of time before having a nice moment of realization and solving puzzle
+-Being forced to wait at the start of a puzzle is more of a problem when restarting puzzle multiple times after deaths
+-Can be hard to tell if player is in range of killing someone
+
+
+Technical Feedback: 
+-Streaming causes game to break
+-Players got stuck in walls and obstacles quite often (players liked to hug the wall when sneaking)
+
+
+Possible ideas: 
+-Adding indicator to show when player is in range to kill an NPC 
+-Make sure waiting is possible and beneficial, but not compulsory at the start of an area. 

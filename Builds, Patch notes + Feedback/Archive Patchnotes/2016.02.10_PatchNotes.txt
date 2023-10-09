@@ -1,0 +1,9 @@
+Skinrender 10/02/2016 PatchNotes
+
+Week 11
+
+-Female civilian art implemented
+-Conversation system coded and added
+-introManager class created to handle triggers in the Intro section
+-First part of the intro section added including character dialogue (bar scene)
+-Collision system for dynamic polygon vision improved

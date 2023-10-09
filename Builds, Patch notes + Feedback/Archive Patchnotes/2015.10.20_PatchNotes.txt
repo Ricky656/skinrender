@@ -1,0 +1,15 @@
+Skinrender 20/10/2015 PatchNotes
+
+Prototype 
+-Isometric View created with placeholder assets
+-Isometric player movement added (arrow keys)
+-Isometric collision added
+
+Week 1
+
+-NPC AI pathfinding added
+-Simple pathing blockers added
+-NPC View Vector's added
+-Shadows initial art and ability to hide player added
+-Simplistic ability to kill enemies when within certain distance added (spacebar)
+-AI patrol behaviour added

@@ -1,0 +1,24 @@
+Playtest 1 - 2 females age 21-25
+
+Playtime: 5min
+
+Notes:
+
+Player gets stuck on scenery
+Controls need refining (priority design task)
+
+Comments:
+
+"Needs an area to move around/get used to the controls." - Needs tutorial area.
+
+"Enemy sight is too quick." - Some build-up is needed, rather than the current instant death.
+
+"Movement speed for hero is good."
+
+"Took too long for enemy patrols to start." - player wasn't sure when NPC patrols would start when watching from shadow. Needs cues.
+
+"The view is good but is maybe too close." - perhaps zoom out to encompass larger area, would allow players to see puzzles ahead of character.
+
+"Movement controls are really awkward."
+
+(when questioned on whether a sprint button would add anything) "No need, the speed was fine."

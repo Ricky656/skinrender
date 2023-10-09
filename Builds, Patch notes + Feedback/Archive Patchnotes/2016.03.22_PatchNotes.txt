@@ -1,0 +1,9 @@
+Skinrender 22/03/2016 PatchNotes
+
+Week 17
+
+-Exterior puzzles altered to make more complicated
+-Bug with disguise mechanic timer/user interface fixed
+-Bug whereby player is killed after losing disguise if they moved through an 
+ enemies new, dynamic line of sight whilst wearing a disguise fixed.
+-Disguise length increased to 10 seconds

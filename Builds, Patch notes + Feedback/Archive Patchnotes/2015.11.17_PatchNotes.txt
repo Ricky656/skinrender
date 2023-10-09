@@ -1,0 +1,10 @@
+Skinrender 17/11/2015 PatchNotes
+
+Week 5
+
+-Added mouse control for camera
+-Doorway Art added
+-More complicated test puzzle added
+-Border case depth sorting improved (still has a few bugs)
+-Code added for disguise mechanic, but isn't used in game yet
+

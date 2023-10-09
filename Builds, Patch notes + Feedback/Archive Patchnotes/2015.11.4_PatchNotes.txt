@@ -1,0 +1,9 @@
+Skinrender 10/11/2015 PatchNotes
+
+Week 3
+
+-Depth sorting bugs removed
+-AI Can no longer see through walls
+-AI has a buffer as they start to see Player, instead of immediately spotting and killing player.
+-First pass of Skinrender art added
+-Control scheme iterated, arrow keys now move player with an Isometric axis

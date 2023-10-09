@@ -1,0 +1,13 @@
+Skinrender 24/11/2015 PatchNotes
+
+Week 6
+
+-Doorway open/close/locked code added
+-Basic disguise mechanic added
+-Initial UI art and code implemented
+-Text popup system code (currently used for tutorial messages)
+-3 new puzzles centered on the disguise mechanic replace previous test puzzles
+-Guard artwork added 
+-key artwork added
+-Additional indoor props added (tables/chairs/bar assets)
+-Mouse control iterated

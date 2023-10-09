@@ -1,0 +1,44 @@
+Art:
+
+Skinning tree
+Indoor Republican Banner North
+Indoor Republican Banner East
+Jean Baptiste art (8 Directions)
+Republican Officer art (8 Directions)
+Boulder prop art
+Hedgerow art North
+Hedgerow art East
+Alternate Bush prop art
+Alternate grass tile art
+Flowerbed tile art
+Dirt road tile art
+Kitchen props:
+	-Counters/tables
+	-Utensils 
+	-Mops
+	-Buckets
+	-Pans
+Fireplace art
+Coach/Wagon/Cart
+
+
+Animations:
+
+Walking Animations
+Dying Animations
+Skinrender Killing
+Skinrender crouching
+Wall torch flickering
+Fireplace fire flickering
+Lampost light fading
+'Idle' Animations for NPC characters:
+	-Bartender cleaning mug
+	-Patrons drinking (few alternatives with different angles)
+	-Talking
+	-Drunken Stumbling/Falling down
+	-Looking around/confused
+Guards shooting
+Main character being skinned?
+Jean Baptiste/Officers giving speech
+Calling someone over
+Ordering someone to go somewhere
